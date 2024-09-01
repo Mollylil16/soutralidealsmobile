@@ -120,7 +120,7 @@ class _AccountTypeSelectionScreenState
                   child: Text(
                     "Je crée un compte !",
                     style: TextStyle(color: Colors.green),
-                  ),
+                  ), 
                 ),
               ),
               SizedBox(height: 10),

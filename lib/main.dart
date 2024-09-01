@@ -3,7 +3,7 @@ import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 import 'package:soutraliapp_mobile/account_creation/AccountTypeSelectionScreen.dart';
 import 'package:soutraliapp_mobile/account_creation/HomeScreen.dart';
 import 'package:soutraliapp_mobile/account_creation/RegistrationScreen.dart';
- // Importez votre fichier d'interface 3
+ 
 
 void main() {
   runApp(MyApp());
